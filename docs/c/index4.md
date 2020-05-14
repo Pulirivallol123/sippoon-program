@@ -2,7 +2,7 @@
 
 ![Иллюстрация приложения](/sippoon-program/c/)
 
-![Лого](/sippoon-program/docs/c/img1.png)
+![Лого](/sippoon-program/docs/c/1.jpeg)
 
 ![Иллюстрация приложения](/sippoon-program/c/)
 
