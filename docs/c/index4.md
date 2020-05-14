@@ -1,6 +1,6 @@
 # Иллюстрация программы
 
-![Иллюстрация приложения](/sippoon-program/c/)
+![Иллюстрация приложения](https://pulirivallol123.github.io/sippoon-program/docs/c/1.jpeg)
 
 ![Лого](/sippoon-program/docs/c/1.jpeg)
 
